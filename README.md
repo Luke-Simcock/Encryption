@@ -28,3 +28,10 @@ Encryption currently only effects password. could be added to username for addit
 A second layer of encryption may be added to lines of the txt file for additional security if a majority of data on lines are sensitive and a blanket encryption will be more simple.
 It is recommended to use 25% of your available RAM for each encryption (this is what Auto will select)
 
+## Download
+# (Add links for scripts to automatically install all files and dependencies)
+Linux: 
+Mac: 
+Windows: 
+
+Automatic: 
